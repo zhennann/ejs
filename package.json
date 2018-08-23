@@ -1,12 +1,12 @@
 {
-  "name": "ejs",
+  "name": "@zhennann/ejs",
   "description": "Embedded JavaScript templates",
   "keywords": [
     "template",
     "engine",
     "ejs"
   ],
-  "version": "2.6.1",
+  "version": "2.6.2",
   "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
   "contributors": [
     "Timothy Gu <timothygu99@gmail.com> (https://timothygu.github.io)"
